@@ -48,31 +48,13 @@ flutter run
 
 ## Funcionalidades Principales
 
-### Autenticación
 
-- Registro de usuarios con roles diferenciados
-- Inicio de sesión con validación
-- Gestión de sesiones con Supabase
+<div style="display: flex; justify-content: space-evenly;">
+   <img src="https://github.com/user-attachments/assets/80d0cdd9-dee7-4001-99d4-21bad065b5b7" alt="imagen 0" width="200" />
+    <img src="https://github.com/user-attachments/assets/6b07f75a-99b3-4ff0-99b3-2d5605875cbf" alt="Imagen 1" width="200" />
+  <img src="https://github.com/user-attachments/assets/11b99313-4836-449b-bb62-fdddb2e074f2" alt="imagen 2" width="200" />
+  <img src="https://github.com/user-attachments/assets/a8d057f3-0ed5-4492-82aa-d09e058da4e1" alt="imagen 5" width="200" />
+   <img src="https://github.com/user-attachments/assets/99ab06b1-394f-4e7c-a161-5bbe9aa04473" alt="imagen 4" width="200" />
+</div>
 
-### Panel del Publicador
 
-- Formulario para crear nuevos lugares turísticos
-- Subida de imágenes desde cámara o galería
-- Gestión de coordenadas geográficas
-- Lista de lugares publicados
-- Gestión de reseñas
-
-### Panel del Visitante
-
-- Visualización de lugares turísticos
-- Servicios de geolocalización
-- Integración con Google Maps
-- Lectura de reseñas
-- Navegación intuitiva
-
-### Sistema de Reseñas
-
-- Comentarios en tiempo real
-- Diferenciación por roles
-- Gestión de permisos
-- Interfaz responsive
