@@ -1,6 +1,6 @@
 {
-    "name": "turismo_ciudadano",
-    "short_name": "turismo_ciudadano",
+    "name": "blog_turismo_app",
+    "short_name": "blog_turismo_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
